@@ -46,21 +46,18 @@ McDonald's and Starbucks are two of the most popular fast-food chains in the wor
 **Methodology**
 We will use data from the McDonald's and Starbucks websites to compare the nutritional content of menu items. We will focus on the following nutrients: calories, fat, carbohydrates, protein, and sodium.
 
-**Results**
-Here are the results of our comparison:
+## 🍽 Nutritional Comparison
 
-* **Breakfast Items**
-	+ McDonald's: Egg McMuffin (300 calories, 13g fat, 31g carbs, 17g protein, 750mg sodium)
-	+ Starbucks: Chonga Bagel (300 calories, 5g fat, 50g carbs, 12g protein, 10mg sodium)
-* **Beverages**
-	+ McDonald's: Iced Coffee (0 calories, 0g fat, 0g carbs, 0g protein, 0mg sodium)
-	+ Starbucks: Iced Coffee (0 calories, 0g fat, 0g carbs, 0g protein, 0mg sodium)
-* **Lunch Items**
-	+ McDonald's: Big Mac (530 calories, 27g fat, 47g carbs, 24g protein, 960mg sodium)
-	+ Starbucks: Chicken BLT Salad Sandwich (470 calories, 25g fat, 35g carbs, 21g protein, 35mg sodium)
-* **Desserts**
-	+ McDonald's: Apple Pie (250 calories, 13g fat, 32g carbs, 2g protein, 170mg sodium)
-	+ Starbucks: Chocolate Cake Pop (160 calories, 8g fat, 23g carbs, 2g protein, 10mg sodium)
+The data collected from the menus of both brands allow us to calculate the average nutritional content per item.
+
+| **Nutrient** | **McDonald's<br>(Avg per item)** | **Starbucks<br>(Avg per item)** | **Healthier Option** | **Why**           |
+|--------------|------------------------------|-------------------------------|-----------------------|-------------------|
+| Calories     | 368.27 kcal                  | 257.24 kcal                   | Starbucks             | Lower Calories    |
+| Total Fat    | 14.17 g                      | 10.06 g                       | Starbucks             | Lower Fat         |
+| Sugars       | 29.42 g                      | -                             | -                     | -                 |
+| Carbs        | 47.35 g                      | 33.97 g                       | Starbucks             | Lower Carbs       |
+| Protein      | 13.34 g                      | 8.19 g                        | McDonald's            | Higher Protein    |
+
 
 **Conclusion**
 Our comparison shows that Starbucks menu items tend to have fewer calories and less fat than McDonald's menu items. However, some Starbucks menu items have more sugar and sodium than their McDonald's counterparts. It's essential to consider the nutritional content of menu items when making choices at either chain.
