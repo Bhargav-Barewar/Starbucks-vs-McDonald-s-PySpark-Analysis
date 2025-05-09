@@ -1,4 +1,4 @@
-# Snack Analysis: Starbucks vs McDonald's Health Check 🍟🥤
+# Starbucks vs McDonald's: A PySpark Health Comparison 🍟🥤
 
 Welcome to the **Snack Analysis** project! In this project, I analyze and compare the nutritional value of food items from **Starbucks** and **McDonald's** using PySpark to find out which brand offers healthier snacks.
 
